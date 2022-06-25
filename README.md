@@ -38,6 +38,9 @@ Using ectotherms as a model system, the objectives of this project are:
 - Are evolutionary rates of metabolic rates linked to cell size? 
 - Can the metabolic variability of a species predict its geographic range shifts? If yes, do they differ across between terrestrial and aquatic? 
 
+## Further information
+For any further information, please contact me: Félix P. Leiva, email: felixpleiva@gmail.com
+
 ## Bibliography
 1.	Brown JH, Gillooly JF, Allen AP, Savage VM, West GB. 2004 Toward a metabolic theory of ecology. Ecology 85, 1771–1789.
 2.	Glazier DS. 2010 A unifying explanation for diverse metabolic scaling in animals and plants. Biological Reviews 85, 111–138.
