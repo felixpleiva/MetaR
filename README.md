@@ -36,7 +36,7 @@ Using ectotherms as a model system, the objectives of this project are:
 
 - What drives variation in ectotherm metabolic rates across different realms and   climate zones?
 - Are evolutionary rates of metabolic rates linked to cell size? 
-- Can the metabolic variability of a species predict its geographic range shifts? If yes, do they differ across between terrestrial and aquatic? 
+- Can the metabolic variability of a species predict its geographic range shifts? If yes, do they differ across terrestrial and aquatic realms? 
 
 ## Further information
 For any further information, please contact me: Félix P. Leiva, email: felixpleiva@gmail.com
