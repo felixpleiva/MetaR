@@ -1,6 +1,6 @@
 # About MetaR
  
-**MetaR** is my postdoctoral project funded by the [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/en/) through the [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) to pursue research at [AWI](https://www.awi.de/en/) together with [Felix C Mark](https://www.awi.de/en/about-us/organisation/staff/single-view/felix-christopher-mark.html).
+**MetaR** is my postdoctoral project funded by the [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/en/) through the [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) to pursue research at [AWI](https://www.awi.de/en/) together with [Felix C. Mark](https://www.awi.de/en/about-us/organisation/staff/single-view/felix-christopher-mark.html) and [Wilco C.E.P. Verberk](https://www.ru.nl/en/people/verberk-w).
 
 ## Summary of MetaR
 
