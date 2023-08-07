@@ -1,0 +1,1 @@
+MetaR is a relational database built in Microsoft Access using nested tables. Currently, MetaR comprises 7 tables that describe reference, taxonomy, origin, respiration, Pcrit, genome size, and cell size. A standardized list of species names enables merging between the different traits of interest.
