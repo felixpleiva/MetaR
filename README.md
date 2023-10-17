@@ -11,4 +11,4 @@ This project aims to synthesise the impact of global environmental change on a k
 ![Figure 2 Phylogenetic lineages included in metaR with monos](https://user-images.githubusercontent.com/57069034/175792168-6eb97aa8-796a-4ccf-97b5-8d71e0709df3.png)
 
 ## Further information
-For potential collaboration with me or any further information about this project, please get in touch with me: Félix P. Leiva, email: felixpleiva@gmail.com
+For potential collaboration or any further information about this project, please get in touch with me: Félix P. Leiva, email: felixpleiva@gmail.com
