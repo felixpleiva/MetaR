@@ -6,7 +6,7 @@ This project aims to synthesise the impact of global environmental change on a k
 
 ![Figure 1_Global_map_metaR](https://user-images.githubusercontent.com/57069034/175792043-39c0343c-0414-4317-99ad-aadc27350de4.png)
 
-**MetaR** includes data from 2,647 species across 18 Phyla, 55 Classes, 248 Orders and 800 families, ranging from aquatic and terrestrial invertebrates to small and large vertebrates. I have already established a dataset from 1350 primary references with more than 75,000 records on inter-and intraspecific metabolic rates. MetaR also provides metadata relating to the methodology  of each record.
+**MetaR** includes data over 2000 species across 14 Phyla, 55 Classes, 248 Orders and 800 families, ranging from aquatic and terrestrial invertebrates to small and large vertebrates. I have already established a dataset from 1720 primary references with more than 90,000 records on inter-and intraspecific metabolic rates. MetaR also provides metadata relating to the methodology  of each record.
 
 ![Figure 2 Phylogenetic lineages included in metaR with monos](https://user-images.githubusercontent.com/57069034/175792168-6eb97aa8-796a-4ccf-97b5-8d71e0709df3.png)
 
