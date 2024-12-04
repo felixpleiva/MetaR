@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # About MetaR
 
 This project aims to synthesise the impact of global environmental change on a key physiological trait in ectotherms: their metabolic rate. To this end, I will assemble and curate a large, intra-and-interspecific database on metabolic rates of ectotherms (invertebrates, fish, amphibians and reptiles), globally distributed across realms (marine, freshwater, intertidal and terrestrial), climate zones (polar, temperature and tropical), and from the deepest ocean to the highest mountains.
