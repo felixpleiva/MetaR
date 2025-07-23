@@ -13,4 +13,4 @@ This project aims to synthesise the impact of global environmental change on a k
 ![Figure_3_phylogenetic_tree_silhouettes](https://github.com/felixpleiva/MetaR/assets/57069034/4779a9a8-4b54-46d8-9d29-f45929cf9377)
 
 ## Further information
-MetaR is under embargo until the 30 of June 2025 but will become open to  the community afterwards. For potential collaboration or any further information about this project, please get in touch with me: Félix P. Leiva, email: felixpleiva@gmail.com
+MetaR is still under development (double checking of records) but will become open to  the community afterwards. For potential collaboration or any further information about this project, please get in touch with me: Félix P. Leiva, email: felixpleiva@gmail.com
